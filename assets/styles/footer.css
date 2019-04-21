@@ -1,0 +1,60 @@
+footer {
+    background-color: rgb(33, 97, 33);
+    clear: both;
+    grid-area: footer;
+    padding: 1em 5em;
+}
+
+footer a:link {
+    color: rgb(255, 255, 255);
+}
+
+footer a:active {
+    color: rgb(255, 255, 255);
+}
+
+footer a:hover {
+    color: rgb(255, 255, 255);
+}
+
+footer a:visited {
+    color: rgb(255, 255, 255);
+}
+
+footer h1 {
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+footer ul {
+    text-indent: 0;
+    margin: 0;
+    padding: 0;
+}
+
+footer li {
+    list-style-type: none;
+    padding: 0.25em 0;
+}
+
+footer [class ^='footer-'] {
+    width: 35%;
+    display: inline-block;
+    text-align: center;
+}
+
+footer .footer-left {
+    float: left;
+}
+
+footer .footer-right {
+    float: right;
+}
+
+footer .footer-center {
+    clear: both;
+    width: 100%;
+    float: center;
+}

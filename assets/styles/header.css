@@ -1,0 +1,106 @@
+#header {
+    grid-area: header;
+    background-color: rgb(33, 97, 33);
+    opacity: 0.75;
+    text-align: center;
+}
+
+#header a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#header a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+#header a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+#header a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+#header h1 {
+    font-size: 18px;
+}
+
+#banner {
+    grid-area: banner;
+    background-color: rgb(49, 49, 49);
+    background-image: url("/images/www.facebook.com/TheJohnWaller/photos/a.776132662464303/1324236407653923/photo.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+    opacity: 0.90;
+    padding: 30px 50px 30px 50px;
+    color: rgb(255, 255, 255);
+}
+
+#banner h1 {
+    width: 40%;
+    font-size: 70px;
+    font-weight: 700;
+    text-decoration: overline;
+}
+
+#banner h2 {
+    width: 60%;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+#sitenav {
+    grid-area: sitenav;
+    background-color: rgb(16, 133, 172);
+    opacity: 0.9;
+    text-align: center;
+}
+
+#sitenav li {
+    display: block;
+    list-style-type: none;
+}
+
+#sitenav a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#sitenav a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+#sitenav a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+#sitenav a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#sitenav li {
+    text-transform: uppercase;
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+}
+
+#sitenav.sticky {
+    position: fixed;
+    top: 0;
+    opacity: 1;
+    width: 100%;
+    z-index: 999;
+}
+
+#sitenav.sticky+article {
+    padding-top: 3em;
+}

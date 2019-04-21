@@ -1,0 +1,8 @@
+<!-- --> {{/*  kill me  */}}
+<!-- --> {{ $js1 := resources.Get "scripts/greet.js" }}
+<!-- --> {{ $js2 := resources.Get "scripts/links.js" }}
+<!-- --> {{ $js3 := resources.Get "scripts/sticky.js" }}
+<!-- --> {{ $bundle := slice $js1 $js2 $js3 | resources.Concat "scripts/bundle.js" }}
+<!-- --> {{ $script := $bundle | resources.Minify | resources.Fingerprint }}
+<!-- -->
+<script type="text/javascript" src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>

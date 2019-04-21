@@ -1,0 +1,5 @@
+baseURL          =  "http://ecochallenge.buffalo-coders.org/"
+languageCode     =  "en-us"
+title            =  "WNY Cool Roof Project"
+disableKinds     =  ["RSS", "taxonomy", "taxonomyTerm"]
+enableRobotsTXT  =  "true"

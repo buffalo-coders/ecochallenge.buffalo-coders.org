@@ -1,0 +1,5 @@
+buildExpired       =  true
+buildDrafts        =  true
+buildFuture        =  true
+debug              =  true
+verbose            =  true

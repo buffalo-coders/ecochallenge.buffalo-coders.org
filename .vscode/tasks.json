@@ -1,0 +1,66 @@
+{
+    "version": "2.0.0",
+    "tasks": [{
+            "label": "build",
+            "type": "shell",
+            "command": "hugo",
+            "args": [
+                "--buildDrafts",
+                "--buildExpired",
+                "--buildFuture",
+                "--cleanDestinationDir",
+                "--forceSyncStatic",
+                "--minify",
+                "--path-warnings",
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "dependsOn": ["clean"]
+        },
+        {
+            "label": "clean",
+            "type": "shell",
+            "command": "rm",
+            "args": [
+                "-rf",
+                "public",
+                "resources"
+            ],
+            "problemMatcher": [],
+        },
+        {
+            "label": "serve",
+            "type": "shell",
+            "command": "hugo",
+            "args": [
+                "serve",
+                "--buildDrafts",
+                "--buildExpired",
+                "--buildFuture",
+                "--cleanDestinationDir",
+                "--forceSyncStatic",
+                "--minify",
+                "--path-warnings",
+                "--watch"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "sync",
+            "type": "shell",
+            "command": "aws",
+            "args": [
+                "s3",
+                "sync",
+                "public",
+                "s3://ecochallenge.buffalo-coders.org",
+                "--delete"
+            ],
+            "problemMatcher": [],
+            "dependsOn": ["build"]
+        }
+    ]
+}

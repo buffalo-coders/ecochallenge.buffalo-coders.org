@@ -1,0 +1,12 @@
+<!-- --> {{/*  kill me  */}}
+<!-- --> {{ $css1 := resources.Get "styles/app.css" }}
+<!-- --> {{ $css2 := resources.Get "styles/faq.css" }}
+<!-- --> {{ $css3 := resources.Get "styles/footer.css" }}
+<!-- --> {{ $css4 := resources.Get "styles/header.css" }}
+<!-- --> {{ $css5 := resources.Get "styles/map.css" }}
+<!-- --> {{ $css6 := resources.Get "styles/noscript.css" }}
+<!-- --> {{ $css7 := resources.Get "styles/cdn-images.mailchimp.com/embedcode/classic-10_7.css" }}
+<!-- --> {{ $bundle := slice $css1 $css2 $css3 $css4 $css5 $css6 $css7 | resources.Concat "styles/bundle.css" }}
+<!-- --> {{ $style := $bundle | resources.Minify | resources.Fingerprint }}
+<!-- -->
+<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
