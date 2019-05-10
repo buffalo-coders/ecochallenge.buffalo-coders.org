@@ -4,11 +4,11 @@ draft   =  false
 title   =  "Join!"
 +++
 
-## Join the WNY Cool Roof Project Community
+## Join the Buffalo Cool Roof Project Community
 
-Do you want to participate in the grassroots effort to make Western NY a better place to live and work? If you do, then you should join us! You don't have to have any special skills or be a home- or business-owner, anyone is welcome to join.
+Do you want to participate in the grassroots effort to make Buffalo a better place to live and work? If you do, then you should join us! You don't have to have any special skills or be a home- or business-owner, anyone is welcome to join.
 
-We can always benefit from more engaged and enthusiastic people that can donate their time, money, or passion towards making Western NY a better place for all of us. Sign up to our WNY Cool Roof Project Community mailing list and you'll be kept informed!
+We can always benefit from more engaged and enthusiastic people that can donate their time, money, or passion towards making Buffalo a better place for all of us. Sign up to our Buffalo Cool Roof Project Community mailing list and you'll be kept informed!
 
 <div id="mc_embed_signup" style="border: 2px solid green; margin: 1em; padding: 0;">
 	<form
@@ -16,7 +16,7 @@ We can always benefit from more engaged and enthusiastic people that can donate 
 		method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
 		novalidate>
 		<div id="mc_embed_signup_scroll">
-			<h2>Join the WNY Cool Roof Project Community</h2>
+			<h2>Join the Buffalo Cool Roof Project Community</h2>
 			<div class="indicates-required"><span class="asterisk">&#42;</span> required</div>
 			<div class="mc-field-group">
 				<label for="mce-EMAIL">Email Address <span class="asterisk">&#42;</span>

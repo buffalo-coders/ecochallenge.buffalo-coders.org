@@ -6,7 +6,7 @@ title   =  "Where?"
 
 ## Is your building a good candidate for a Cool Roof?
 
-Let's find out if your building is a good candidate for the WNY Cool Roof Project!
+Let's find out if your building is a good candidate for the Buffalo Cool Roof Project!
 
 ### Locate Your Building
 
@@ -22,4 +22,4 @@ Determine if you qualify, and if your roof is eligible for the Cool Roof Project
 
 ### Get involved...
 
-Whether your building is a good candidate for a new WNY Cool Roof Project, or it already has a Cool Roof, don't forget to [join our WNY Cool Roof Community](/join) and do something positive for our city and the world!
+Whether your building is a good candidate for a new Buffalo Cool Roof Project, or it already has a Cool Roof, don't forget to [join our Buffalo Cool Roof Community](/join) and do something positive for our city and the world!

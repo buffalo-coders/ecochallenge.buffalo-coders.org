@@ -18,4 +18,4 @@ It's not a difficult process to convert a roof into a Cool Roof. It can be done 
 
 ### Get involved...
 
-Click the following links to find out [more benefits](/why) of the WNY Cool Roof Project, see if [your building](/where) would benefit from the WNY Cool Roof Project, and don't forget to [join our WNY Cool Roof Community](/join) and do something positive for our city and the world!
+Click the following links to find out [more benefits](/why) of the Buffalo Cool Roof Project, see if [your building](/where) would benefit from the Buffalo Cool Roof Project, and don't forget to [join our Buffalo Cool Roof Community](/join) and do something positive for our city and the world!

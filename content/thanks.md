@@ -6,7 +6,7 @@ title   =  "Sponsors, Partners, and Friends"
 
 ## Special Thanks
 
-The WNY Cool Roof Project was conceived as part of the [Buffalo Civic Innovation EcoChallenge](https://www.buffaloinnovates.com/). The EcoChallenge was created by The City of Buffalo in partnership with AT&amp;T. Many local and regional corporate sponsors are also involved. Check out their projects by clicking through the corporage logos.
+The Buffalo Cool Roof Project was conceived as part of the [Buffalo Civic Innovation EcoChallenge](https://www.buffaloinnovates.com/). The EcoChallenge was created by The City of Buffalo in partnership with AT&amp;T. Many local and regional corporate sponsors are also involved. Check out their projects by clicking through the corporage logos.
 
 ### Sponsors:
 

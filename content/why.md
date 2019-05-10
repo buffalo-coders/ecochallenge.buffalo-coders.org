@@ -44,4 +44,4 @@ Large commercial buildings are particularly ideal for reducing the urban heat is
 
 ### Get involved...
 
-Click the following links to see if [your building](/where) would benefit from the WNY Cool Roof Project, [how to convert your roof](/how) into a Cool Roof, and don't forget to [join our WNY Cool Roof Community](/join) and do something positive for our city and the world!
+Click the following links to see if [your building](/where) would benefit from the Buffalo Cool Roof Project, [how to convert your roof](/how) into a Cool Roof, and don't forget to [join our Buffalo Cool Roof Community](/join) and do something positive for our city and the world!

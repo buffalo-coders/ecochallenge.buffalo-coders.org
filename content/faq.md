@@ -4,7 +4,7 @@ draft   =  false
 title   =  "Frequently Asked Questions"
 +++
 
-## Frequently Asked Questions about the WNY Cool Roof Project
+## Frequently Asked Questions about the Buffalo Cool Roof Project
 
 <details open>
 <summary>What is a Cool Roof?</summary>
@@ -30,7 +30,7 @@ title   =  "Frequently Asked Questions"
 
 <details open>
 <summary>What do I need to do?</summary>
-<p>Simply [locate your building](/where) using our [ESRI-enabled](https://www.esri.com/en-us/home) mapping tool to determine if your building is suitable for a Cool Roof. If eligible, you should [join the WNY Cool Roof Project](/join) and make a plan with the community for upgrading your building.</p>
+<p>Simply [locate your building](/where) using our [ESRI-enabled](https://www.esri.com/en-us/home) mapping tool to determine if your building is suitable for a Cool Roof. If eligible, you should [join the Buffalo Cool Roof Project](/join) and make a plan with the community for upgrading your building.</p>
 </details>
 
 <details open>

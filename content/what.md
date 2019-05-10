@@ -4,9 +4,9 @@ draft   =  false
 url     =  "/"
 +++
 
-## What is the WNY Cool Roof Project?
+## What is the Buffalo Cool Roof Project?
 
-The WNY Cool Roof Project is a grassroots, community-led initiative designed to help solve the problem of climate change, one roofing tile at a time. We want to connect businesses and people to engage each other and leverage simple technology to make our community a better place.
+The Buffalo Cool Roof Project is a grassroots, community-led initiative designed to help solve the problem of climate change, one roofing tile at a time. We want to connect businesses and people to engage each other and leverage simple technology to make our community a better place.
 
 ### Did you know...
 
@@ -28,4 +28,4 @@ The simple act of painting a building's roof white helps cool the outside air, a
 
 ### Get involved...
 
-Click the following links to find out [more benefits](/why) of the WNY Cool Roof Project, [how to convert your roof](/how) into a Cool Roof, see if [your building](/where) would benefit from the WNY Cool Roof Project, and don't forget to [join our WNY Cool Roof Community](/join) and do something positive for our city and the world!
+Click the following links to find out [more benefits](/why) of the Buffalo Cool Roof Project, [how to convert your roof](/how) into a Cool Roof, see if [your building](/where) would benefit from the Buffalo Cool Roof Project, and don't forget to [join our Buffalo Cool Roof Community](/join) and do something positive for our city and the world!
